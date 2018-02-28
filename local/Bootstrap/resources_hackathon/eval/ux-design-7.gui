@@ -1,0 +1,39 @@
+header
+row {
+single {
+big-title, text
+}
+}
+row {
+col-narrow {
+small-title
+}
+col-wider {
+text
+}
+}
+row {
+col-narrow {
+small-title
+}
+col-wider {
+text
+}
+}
+row {
+col-narrow {
+small-title
+}
+col-wider {
+text
+}
+}
+row {
+big-title, text
+}
+row {
+
+}
+row {
+
+}

@@ -1,0 +1,46 @@
+header
+row {
+single {
+big-title, text
+}
+}
+row {
+col-narrow {
+image
+}
+col-wider {
+text, btn-active
+}
+}
+row {
+col-narrow {
+image
+}
+col-wider {
+text, btn-active
+}
+}
+row {
+col-narrow {
+small-title
+}
+col-wider {
+text
+}
+}
+row {
+col-narrow {
+small-title
+}
+col-wider {
+text
+}
+}
+row {
+col-narrow {
+small-title
+}
+col-wider {
+text
+}
+}
