@@ -32,8 +32,24 @@ row {
 big-title, text
 }
 row {
-
+col-narrow {
+small-title
+}
+col-wide {
+text
+}
+col-narrow {
+link
+}
 }
 row {
-
+col-narrow {
+small-title
+}
+col-wide {
+text
+}
+col-narrow {
+link
+}
 }
